@@ -1,1 +1,1 @@
-# Bayesian-MCMC_Linear-Regressio
+# Bayesian-MCMC_Linear-Regression
