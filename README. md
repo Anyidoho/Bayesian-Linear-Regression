@@ -1,0 +1,3 @@
+# Bayesian-MCMC_Linear-Regression
+Code models Bayesian linear regression by estimating posterior distributions from prior and likelihood functions
+R shiny is used to visualize results
